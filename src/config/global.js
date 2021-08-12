@@ -58,12 +58,12 @@ export default {
       },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      //{
+      //  nombreRuta: 'actividad',
+      //  icono: 'far fa-question-circle',
+      //  titulo: 'Actividad didáctica',
+      //  desarrolloContenidos: true,
+      //},
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -333,6 +333,43 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Jhon Alexander Durango',
+        cargo: 'Instructor',
+        centro: 'Centro de Diseño, Confección y Moda. Itagüí, Antioquia.',
+      },
+      {
+        nombre: 'María Luisa Yepes Sierra',
+        cargo: 'Instructora',
+        centro: 'Centro de Diseño, Confección y Moda. Itagüí, Antioquia.',
+      },
+      {
+        nombre: 'Marisol Osorio Beltrán',
+        cargo: 'Líder SENNOVA',
+        centro: 'Centro de Diseño, Confección y Moda. Itagüí, Antioquia.',
+      },
+      {
+        nombre: 'Jhon Fernando Jaramillo Taborda',
+        cargo: 'Investigador – Grupo de investigación INAMOD ',
+        centro: 'Centro de Diseño, Confección y Moda. Itagüí, Antioquia.',
+      },
+      {
+        nombre: 'Liliana Victoria Morales Gualdrón',
+        cargo: 'Diseñadora instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica -Regional Distrito Capital.',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisión pedagógica y metodológica',
+        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica -Regional Distrito Capital.',
+      },
     ],
     desarrolloProducto: [
       {
@@ -347,25 +384,19 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Marquez Sanabria',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Rafael Augusto Mantilla López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

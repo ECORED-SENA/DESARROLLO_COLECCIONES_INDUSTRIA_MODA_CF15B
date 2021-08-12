@@ -138,7 +138,7 @@
                   .row.justify-content-center
                     .col-md-8.mb-4.mb-md-0
                       h4 Pegar o parchar el bolsillo
-                      p.mb-4 Según los puntos marcados colocar el bolsillo sobre el delantero o donde se vaya a pegar alineándolo, posicionar el bolsillo bajo el prénsatelas, clavando aguja una puntada antes y se cose a 1/16 y, en cada esquina se clava aguja, se levanta el pie prénsatelas para voltear y seguir cosiendo hasta pegarlo completamente, al final rematar. También puede coser a ¼ de medida.
+                      p.mb-4 Según los puntos marcados colocar el bolsillo sobre el delantero o donde se vaya a pegar alineándolo, posicionar el bolsillo bajo el prensatelas, clavando aguja una puntada antes y se cose a 1/16 y, en cada esquina se clava aguja, se levanta el pie prensatelas para voltear y seguir cosiendo hasta pegarlo completamente, al final rematar. También puede coser a ¼ de medida.
                       p.mb-4 Revisar las puntadas de remate, costuras rectas y esquinas, al revés costuras parejas. 
                     .col-md-3.mb-4.mb-md-0 
                       .titulo-sexto.color-acento-contenido
@@ -211,7 +211,7 @@
                     .col-md-4.mb-4.mb-md-0
                       figure.mb-4 
                         img(src='@/assets/curso/tema1/img17.png')
-                      p.mb-4 Voltear puño y sacar equinas sin romper el tejido, conservando la forma y verificando que quede parejo alrededor. 
+                      p.mb-4 Voltear puño y sacar esquinas sin romper el tejido, conservando la forma y verificando que quede parejo alrededor. 
                     .col-md-8.mb-4.mb-md-0
                       img(src='@/assets/curso/tema1/img18.png')
                       .row.justify-content-center
@@ -279,7 +279,7 @@
                   .row
                     .col-md-6.mb-4.mb-md-0
                       h4 Voltear cuello y pespuntar
-                      p Voltear el cuello y sacar las equinas sin romper el material, conservando la forma y verificando que quede parejo alrededor. Pespuntar alrededor de 1/16 con pie compensado derecho, se clava la aguja en cada esquina escualizando. 
+                      p Voltear el cuello y sacar las esquinas sin romper el material, conservando la forma y verificando que quede parejo alrededor. Pespuntar alrededor de 1/16 con pie compensado derecho, se clava la aguja en cada esquina escualizando. 
                       p.mb-4 Rematando al inicio y al final.
                       .cajon.color-acento-botones.p-4.mb-4
                         strong Nota. 
@@ -346,7 +346,7 @@
                       .row.justify-content-center
                         .col-lg-8.mb-4.mb-md-0
                           img(src='@/assets/curso/tema1/img27.png')
-                      p.mb-4 Voltear el pie de cuello y sacar equinas sin romper el material, conservando la forma curva y verificando que quede parejo alrededor.
+                      p.mb-4 Voltear el pie de cuello y sacar esquinas sin romper el material, conservando la forma curva y verificando que quede parejo alrededor.
                     .col-lg-6.mb-4.mb-md-0
                       img(src='@/assets/curso/tema1/img28.png')
                       p.mb-4 Pespuntar desde la costura del dobladillo a 1/16 por el rededor del cuello y marcar por la parte interna de la pestaña de 1 cm para pegar posteriormente a la camisa.

@@ -65,7 +65,7 @@
                       p - Los puños
                       p - La entretela de la pechera 
                       p - El sesgo de la portañuela
-                      p - Las magas con aberturas 
+                      p - Las mangas con aberturas 
                       p - La portañuela
                       p - El cuello y pie de cuello o banda
                       p Además será importante contar con lo siguiente:
@@ -125,7 +125,7 @@
                 .col-lg-10
                   br
                   h4.mb-4 Paso 5. Voltear cuello y pespuntar
-                  p.mb-4 Voltear el cuello y sacar las equinas sin romper el material, conservando la forma y verificando que quede parejo alrededor. Pespuntar alrededor a 1/16 con pie compensado derecho, se clava la aguja en cada esquina escualizando. Rematando al inicio y al final.
+                  p.mb-4 Voltear el cuello y sacar las esquinas sin romper el material, conservando la forma y verificando que quede parejo alrededor. Pespuntar alrededor a 1/16 con pie compensado derecho, se clava la aguja en cada esquina escualizando. Rematando al inicio y al final.
                   .row
                      .col-lg-4.mb-4.mb-lg-0
                       .cajon.color-primario.p-4.mb-4
@@ -183,7 +183,7 @@
                 .col-lg-10
                   br
                   h4.mb-4 Paso 9. Voltear cuello y pespuntar
-                  p.mb-4 Voltear el pie de cuello y sacar equinas sin romper el material, conservando la forma curva y verificando que quede parejo alrededor.
+                  p.mb-4 Voltear el pie de cuello y sacar esquinas sin romper el material, conservando la forma curva y verificando que quede parejo alrededor.
                   p.mb-4 Pespuntar desde la costura del dobladillo a 1/16 por el rededor del cuello y marcar por la parte interna de la pestaña de 1 cm para pegar posteriormente a la camisa.
                   .row
                     .col-lg-10.mb-4.mb-lg-0
@@ -297,7 +297,7 @@
                         .col-lg-6.mb-4.mb-lg-0
                           figure.mb-4
                             img(src='@/assets/curso/tema3/img21.png')
-                      p.mb-4 Voltear puño y sacar equinas sin romper el tejido, conservando la forma y verificando que quede parejo alrededor.
+                      p.mb-4 Voltear puño y sacar esquinas sin romper el tejido, conservando la forma y verificando que quede parejo alrededor.
                     .col-lg-6.mb-4.mb-lg-0
                       img(src='@/assets/curso/tema3/img22.png')
                       p.mb-4 Pespuntar desde la costura del dobladillo a 1/16 por el rededor y marcar por la parte interna de la pestaña de 1 cm para pegar posteriormente.
