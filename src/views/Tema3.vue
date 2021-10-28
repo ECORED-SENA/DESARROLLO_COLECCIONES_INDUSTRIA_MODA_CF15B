@@ -1259,18 +1259,18 @@
       .row.justify-content-center.p-4(numero="1" titulo="Bolsillo de ribete doble")
         .col-lg-11.mb-4.mb-lg-0
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/nDQqLI5_VPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/JL7oaiNEfE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .row.justify-content-center.p-4(numero="2" titulo="Cose un cierre de pantalón, aunque no seas experta")
         .col-lg-11.mb-4.mb-lg-0
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/hWz51u5V6fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="3" titulo="Cómo hacer pretina de pantalón || Superfácil (patrón y confección) || Lección # 46")
-        .col-lg-11.mb-4.mb-lg-0
-          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/embed/M0djNI5uurE" target="_blank")
+          a.anexo.mb-4.mb-lg-0.ColorBtn(href="https://www.youtube.com/watch?v=hWz51u5V6fc" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
-              p Video. Cose un cierre de pantalón, aunque no seas experta.
+              p Video. Cose un cierre de pantalón, aunque no seas experta.        
+      .row.justify-content-center.p-4(numero="3" titulo="Cómo hacer pretina de pantalón || Superfácil (patrón y confección) || Lección # 46")
+        .col-lg-11.mb-4.mb-lg-0
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/M0djNI5uurE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .row.justify-content-center.p-4(numero="4" titulo="Pantalón clásico de hombre/confección/paso a paso")
         .col-lg-11.mb-4.mb-lg-0
           .video
