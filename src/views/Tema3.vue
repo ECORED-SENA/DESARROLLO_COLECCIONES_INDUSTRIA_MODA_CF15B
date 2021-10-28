@@ -681,63 +681,63 @@
       p.mb-0.text-white.text-center También puede apoyarse visualizando los siguientes videos.
 
     LineaTiempoD.color-acento-contenido
-      .row.justify-content-center.p-4(numero="1" titulo="Alistamiento para la confección de la blusa camisera")
+      .row.justify-content-center.p-4(numero="•" titulo="Alistamiento para la confección de la blusa camisera")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/nDQqLI5_VPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="2" titulo="Preparar cuello")
+      .row.justify-content-center.p-4(numero="•" titulo="Preparar cuello")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/jwt4avwp6y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="3" titulo="Preparar manga, coser portañuela, preparar puños")
+      .row.justify-content-center.p-4(numero="•" titulo="Preparar manga, coser portañuela, preparar puños")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/vxmsXHHBXWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="4" titulo="Preparar delantero, coser pinzas, pespuntar pechera")
+      .row.justify-content-center.p-4(numero="•" titulo="Preparar delantero, coser pinzas, pespuntar pechera")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/8zurivBBOsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="5" titulo="Pegar cuello")
+      .row.justify-content-center.p-4(numero="•" titulo="Pegar cuello")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/-r-B9BBPN4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="6" titulo="Pespuntar cuello")
+      .row.justify-content-center.p-4(numero="•" titulo="Pespuntar cuello")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/-fYx-VI0_tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="7" titulo="Pegar mangas")
+      .row.justify-content-center.p-4(numero="•" titulo="Pegar mangas")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/qOpxd29hxko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="8" titulo="Pespuntar mangas")
+      .row.justify-content-center.p-4(numero="•" titulo="Pespuntar mangas")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/L2Tv-blhRnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="9" titulo="Cerrar costados")
+      .row.justify-content-center.p-4(numero="•" titulo="Cerrar costados")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/gOtAib9rMwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="10" titulo="Pegar puño")
+      .row.justify-content-center.p-4(numero="•" titulo="Pegar puño")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/budtB_UPjtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="11" titulo="Pespuntar puño")
+      .row.justify-content-center.p-4(numero="•" titulo="Pespuntar puño")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/xnaxcqqKfTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="12" titulo="Dobladillar ruedo")
+      .row.justify-content-center.p-4(numero="•" titulo="Dobladillar ruedo")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/pTroSaIBKDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="13" titulo="Marcar ojales y ojalar")
+      .row.justify-content-center.p-4(numero="•" titulo="Marcar ojales y ojalar")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/LemTAGq3BwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="14" titulo="Marcar botones y botonar")
+      .row.justify-content-center.p-4(numero="•" titulo="Marcar botones y botonar")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/Zwx_QULWajg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .row.justify-content-center.p-4(numero="15" titulo="Limpiar, revisar y planchar")
+      .row.justify-content-center.p-4(numero="•" titulo="Limpiar, revisar y planchar")
         .col-lg-11.mb-4.mb-lg-0
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/azhymYdHJBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
