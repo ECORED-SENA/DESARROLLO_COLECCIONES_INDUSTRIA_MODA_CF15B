@@ -1263,15 +1263,15 @@
       .row.justify-content-center.p-4(numero="2" titulo="Cose un cierre de pantalón, aunque no seas experta")
         .col-lg-11.mb-4.mb-lg-0
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/nDQqLI5_VPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/hWz51u5V6fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .row.justify-content-center.p-4(numero="3" titulo="Cómo hacer pretina de pantalón || Superfácil (patrón y confección) || Lección # 46")
         .col-lg-11.mb-4.mb-lg-0
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/nDQqLI5_VPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/M0djNI5uurE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .row.justify-content-center.p-4(numero="4" titulo="Pantalón clásico de hombre/confección/paso a paso")
         .col-lg-11.mb-4.mb-lg-0
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/nDQqLI5_VPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/tccvk8aARNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
   </template>
 <script>
 export default {
