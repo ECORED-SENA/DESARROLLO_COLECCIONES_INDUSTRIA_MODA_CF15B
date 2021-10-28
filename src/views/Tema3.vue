@@ -678,7 +678,7 @@
                   br
     
     .tarjeta.color-violet.p-2.mb-4
-      p.mb-4.text-white.text-center También puede apoyarse visualizando los siguientes videos.
+      p.mb-0.text-white.text-center También puede apoyarse visualizando los siguientes videos.
 
     LineaTiempoD.color-acento-contenido
       .row.justify-content-center.p-4(numero="1" titulo="Alistamiento para la confección de la blusa camisera")
@@ -1253,7 +1253,7 @@
                   br
               
     .tarjeta.color-violet.p-2.mb-4
-      p.mb-4.text-white.text-center También puede apoyarse visualizando los siguientes videos.
+      p.mb-0.text-white.text-center También puede apoyarse visualizando los siguientes videos.
 
     LineaTiempoD.color-acento-contenido
       .row.justify-content-center.p-4(numero="1" titulo="Bolsillo de ribete doble")

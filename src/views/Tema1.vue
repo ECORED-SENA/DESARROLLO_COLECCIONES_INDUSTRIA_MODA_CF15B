@@ -415,12 +415,28 @@
                       br                                               
     p.mb-4 Para complementar esta información puede ver los siguientes videos.
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/fUW6xKvpzs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/vxmsXHHBXWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .BG01.p-3
+      h3.mb-0.text-center Operaciones básicas para el manejo en máquina plana una aguja
+    TabsB.color-acento-contenido.mb-5
+      .py-4.py-md-5(titulo="Paso 1: Costuras rectas a 1/4”")
+        figure.mb-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/gNh5E95Nu2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            
+      .py-4.py-md-5(titulo="Paso 2: Costuras a alforzas de 1/4”")
+        figure.mb-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/ETNhQQna0Og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+      .py-4.py-md-5(titulo="Paso 3: Costuras a alforzas de 1/16”")
+        figure.mb-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/p2ddUTi8oos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+      .py-4.py-md-5(titulo="Paso 4: Pegar bolsillos")
+        figure.mb-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/eRgj2OfEYLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
 
 </template>
 
